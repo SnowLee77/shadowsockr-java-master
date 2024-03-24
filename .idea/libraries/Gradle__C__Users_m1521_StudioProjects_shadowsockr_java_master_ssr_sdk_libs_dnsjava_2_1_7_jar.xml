@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: C./Users/m1521/StudioProjects/shadowsockr-java-master/ssr_sdk/libs/dnsjava-2.1.7.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ssr_sdk/libs/dnsjava-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
